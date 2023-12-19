@@ -1,0 +1,47 @@
+[
+  {
+    "img": "https://i0.wp.com/spzomega.com.ua/wp-content/uploads/2016/08/default-placeholder.png?resize=300%2C300",
+    "brand": "Mercedes-Benz",
+    "model": "Citan",
+    "carBody": "van",
+    "color": "red",
+    "price": "10000$",
+    "year": 2010
+  },
+  {
+    "img": "https://i0.wp.com/spzomega.com.ua/wp-content/uploads/2016/08/default-placeholder.png?resize=300%2C300",
+    "brand": "Lexus",
+    "model": "GX",
+    "carBody": "4WD",
+    "color": "black",
+    "price": "50000$",
+    "year": 2020
+  },
+  {
+    "img": "https://i0.wp.com/spzomega.com.ua/wp-content/uploads/2016/08/default-placeholder.png?resize=300%2C300",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "carBody": "crossover",
+    "color": "gray",
+    "price": "15000$",
+    "year": 2015
+  },
+  {
+    "img": "https://i0.wp.com/spzomega.com.ua/wp-content/uploads/2016/08/default-placeholder.png?resize=300%2C300",
+    "brand": "Hyundai",
+    "model": "Grand i10 Nios",
+    "carBody": "hatchback",
+    "color": "yellow",
+    "price": "30000$",
+    "year": 2018
+  },
+  {
+    "img": "https://i0.wp.com/spzomega.com.ua/wp-content/uploads/2016/08/default-placeholder.png?resize=300%2C300",
+    "brand": "Honda",
+    "model": "Civic",
+    "carBody": "sedan",
+    "color": "blue",
+    "price": "25000$",
+    "year": 2010
+  }
+]

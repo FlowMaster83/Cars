@@ -1,16 +1,12 @@
-export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
+import { CarsList } from './CarsList/CarsList';
+import { Dropdown } from './Dropdown/Dropdown';
+
+import cars from '../data/cars.json';
+
+const App = () => {
+  return <CarsList items={cars} />;
 };
+
+export default App;
+
+// Компонент App принимает в себя файл данных, все остальные компоненты и их пропы
