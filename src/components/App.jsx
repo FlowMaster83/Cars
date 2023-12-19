@@ -1,5 +1,4 @@
 import { CarsList } from './CarsList/CarsList';
-import { Dropdown } from './Dropdown/Dropdown';
 
 import cars from '../data/cars.json';
 
